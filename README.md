@@ -5,7 +5,7 @@ This is my default update and upgrade skript, i added AutoClean and AutoRemove t
 Oh and i added a Reboot at the end, if you don;t want to reboot each time jus edit the skript and add
 a # before any command you don't want to run.
 example : 
-# sudo reboot now
+" # sudo reboot now "
 
 
 Any problems gimme a shout here : https://github.com/tehwabb1t
