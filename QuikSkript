@@ -1,0 +1,45 @@
+# QuikSkript
+echo
+echo Starting "Really AWESOME Skript"..
+echo Author https://github.com/tehwabb1t 
+echo
+sudo apt update && sudo apt upgrade
+echo
+echo Retrieving Available Package Lists...
+echo
+echo Update and Upgrade Package Repositories Updated
+echo
+#
+echo Downloading and Applying New Software.
+echo
+sudo apt-get update && sudo apt-get upgrade
+echo 
+echo Updates and Upgrades Complete.
+#
+echo
+echo Doing a bit of HouseWork.
+echo 
+echo Scanning for Junk with Autoremove and Autoclean
+echo
+sudo apt autoremove && sudo apt autoclean
+echo
+#
+echo
+echo Removing Junk...
+echo
+sudo apt-get autoremove && sudo apt-get autoclean
+echo 
+#
+echo All Done. System has Been Updated.
+echo 
+echo This Skript QuikSkript Shell Info
+echo Kustom Skript Title :  $0
+echo Terminal/Shell name :  $SHELL
+echo Kustom Skript Process : PID  $$
+echo 
+echo Author https://github.com/tehwabb1t
+echo 
+#
+echo
+echo All done Rebooting to Tidy up
+sudo reboot now
