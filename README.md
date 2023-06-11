@@ -1,4 +1,4 @@
-# fantastic-eureka
+# Linux-Quik-Skript
 Linux help
 
 This is my default update and upgrade skript.
