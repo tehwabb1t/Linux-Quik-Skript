@@ -1,10 +1,11 @@
 # fantastic-eureka
 Linux help
 
-This is my default update and upgrade skript, i added AutoClean and AutoRemove to tidy up the system.
-and an optional Reboot at the end.
+This is my default update and upgrade skript.
+It uses AutoClean and AutoRemove to tidy up the system.
+With an optional Reboot at the end.
 
-Uncomment the line to enabe a reboot.
+To enable a reboot, edit and remove the comment
 example : 
 " # sudo reboot now "
 
